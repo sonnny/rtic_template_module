@@ -14,7 +14,7 @@ pico rust rtic template modularized (separate task file, separate setup file), t
 // ws2812 pin on gpio10
 
 // ws2812 pio is from -> https://github.com/raspberrypi/pico-examples/blob/master/pio/ws2812/ws2812.pio
-//
+
 
 // this is my rust tutorial for myself
 
